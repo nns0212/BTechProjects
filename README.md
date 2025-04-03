@@ -3,11 +3,11 @@ Football Player Posture Analysis using Computer Vision
 
 This project uses OpenCV and Mediapipe Pose Estimation to analyze a football player's posture. It calculates the knee angle and detects if the player's knee is collapsing (poor posture). This can be used for:
 
-Injury Prevention
+--> Injury Prevention
 
-Sports Performance Analysis
+--> Sports Performance Analysis
 
-Training Assistance
+--> Training Assistance
 
 **Features**
 
